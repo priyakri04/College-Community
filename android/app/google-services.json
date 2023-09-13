@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151338558406",
+    "project_id": "userauth-4eabb",
+    "storage_bucket": "userauth-4eabb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151338558406:android:bca2dc38862517ec1e48c7",
+        "android_client_info": {
+          "package_name": "com.example.userauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2vVN_MHphKA3Ef55xvSA24d7rNQyrYkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
